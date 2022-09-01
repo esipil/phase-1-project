@@ -238,3 +238,80 @@ body{
     line-height: 50px;
     text-align: center;
 }
+#them-reviews{
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 63px;
+
+}
+
+.opening{
+    float: left;
+    width: 50%;
+}
+#days-open{
+    text-align: center;
+}
+.time-open{
+    text-align: center;
+}
+.ok77{
+    float:right;
+    width:50%;
+}
+#visitors-details{
+    text-align: center;
+    backgrojund-color: aliceblue;
+    height: 200px;
+}
+#th44{
+    height: 60px;
+    width:500px;
+    background-color:rgb(82, 79, 79);
+    margin-top: 50px;
+    border-radius: 25px;
+    font-size: 40px;
+}
+.show-us{
+    text-align: center;
+}
+.msg{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+#butt2{
+    height: 60px;
+    width:500px;
+    background-color:rgb(80, 78, 78);
+    margin-top: 40px;
+    border-radius: 25px;
+    font-size: 40px;
+}   
+#box1{
+    height: 400px;
+    float:left;
+    width:30%;
+    background-color:rgb(80, 78, 78);
+    padding-left: 10px;
+    padding-right: 10px;
+ 
+}
+
+#box2{
+    height: 400px;
+    float:left;
+    width: 40%;
+    background-color: #22505e;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+#box3{
+    float:right;
+    width:30%;
+    background-color:rgb(80, 78, 78);
+    height: 400px;
+    padding: 10px;
+}

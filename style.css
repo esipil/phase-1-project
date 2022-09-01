@@ -183,3 +183,58 @@ body{
     margin: 0 auto;
 
 }
+#visit-us{
+    text-align: center;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+    
+}
+#welcome-message{
+    text-align: center;
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 30px;
+    color: #000000;
+}
+#goodbye-message{
+    text-align: center; 
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 63px;
+}
+#about-us-content{
+    background-color: #D9D9D9;
+    height:400px;
+}
+#about-us-title{
+    text-align: center;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+}
+#description{
+    text-align: center;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 45px;
+    color: #000000;
+}
+#experiences-heading{
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+}

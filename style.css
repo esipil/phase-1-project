@@ -315,3 +315,20 @@ body{
     height: 400px;
     padding: 10px;
 }
+.mission{
+    text-align: center;
+}
+.etd{
+    text-align:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+#experiences-tab{
+    background-color: #474646;
+    height:400px;
+    text-align: center;
+    width: 100%;
+}
+#byebye{
+    text-decoration:double
+}

@@ -119,3 +119,67 @@ body{
     text-align: center;
     color: #FFFFFF;
 }
+#time{
+    text-align: center;
+    font-family: serif;
+    font-size: 20px;
+}
+#time-open{
+    display:inline-block;
+}
+#menu{
+    float: left;
+    height: 380px;
+    width:0%;
+}
+#animal-photo{
+    float: left;   
+    height:400px;
+    width:50%;
+    border-radius: 160px;
+    padding-right:10px;
+    border: 10px;
+}
+#the-three{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#animal-description{
+    float: right;
+    height: 700px;
+    width: 50%;
+    background-color: rgb(110, 107, 107);
+    padding: 10px;
+}
+#animal-image{
+    height: 700px;
+    width: 100%;
+}
+#animal-title{
+    text-align: center;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+}
+#the-details{
+    text-align:center;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 40px;
+    
+}
+#visit-us-section{
+    background-color:#BBBBBB;
+    height:700pX ;
+}
+#name{
+    text-align: center;
+    background-color: #D9D9D9;
+    width: 400px;
+    margin: 0 auto;
+
+}

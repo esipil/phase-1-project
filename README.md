@@ -31,9 +31,6 @@ The following link should take you to the live website of this particular projec
 https://esipil.github.io/phase-1-project/
 ```
 
-## Copyright
-
-This project belongs to Timothy Lenku and any use or modification to it is allowed upon request without which anyone who uses or modifies it will be held liable 
-
-## License
+## Copyright and License
+Copyright and licesing can be found on the license document on the second branch
 
